@@ -2,6 +2,7 @@
 // @name        HN comment highlighter
 // @namespace   jcdav.is
 // @include     http://news.ycombinator.com/item?id=*
+// @include     https://news.ycombinator.com/item?id=*
 // @version     0.1
 // @grant       GM_getValue
 // @grant       GM_setValue
